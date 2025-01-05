@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header h1{
+    text-align: center;
+    font-size: 40px;
+    color: red;
+}
+header h1:hover{
+    color: blue;
+}
+.box-1{
+    background: url(images/cases/cases1.jpg) center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.box-2{
+    background: url(images/blog/blog3.jpg) center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box-3{
+    background: url(images/cases/cases7.jpg) center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer{
+    background: url(images/cases/cases4.jpg)center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.4;
+}
+.box-4{
+    color: black;
+    text-align: center;
+    padding: 10px 0px;
+    opacity: 10;
+}
+h3:hover{
+color: blue;
+}
+.img{
+    background: url(images/cases/cases4.jpg)center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    
+}
+.second{
+    height: 500px;
+    background-color: white;
+
+}
+.third{
+    opacity: 0.5;
+    height: 450px;
+    text-align: center;
+    padding-top: 150px;
+    font-size: 30px;
+}
+.third a{
+    text-decoration: none;
+    height: 30px;
+    width: 40px;
+    color: black;
+    background-color: yellow;
+    padding-top: -12px;
+    border-radius: 10px;
+
+}
+.third a:hover{
+    color: black;
+    background-color: yellowgreen;
+}
